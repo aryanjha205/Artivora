@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.DS_Store
+.env
+.env.local
+node_modules/
+.vercel/
+dist/
+build/
